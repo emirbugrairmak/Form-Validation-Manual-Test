@@ -1,4 +1,4 @@
-# Form-Validation-Manuel-Test
+# Form-Validation-Manual-Test
 
 ## Project Overview
 This is a manual testing practice on the **“Form Validation”** page. The goal is to convert requirements into **test cases**, a **checklist**, and **bug reports**, then execute the tests and record results.
